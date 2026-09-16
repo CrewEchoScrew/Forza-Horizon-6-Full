@@ -1,0 +1,23 @@
+{
+  "repo": "forza-horizon-6-full",
+  "product": "Forza Horizon 6 Full",
+  "kind": "game",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "racing",
+  "topics": [
+    "forza-horizon",
+    "festival-route-desk",
+    "livery-tune-windows",
+    "forza-2026",
+    "how-to-install-forza",
+    "forza-desktop-package",
+    "photo-dof-suite",
+    "season-event-tools",
+    "racing-festival-pc",
+    "forza-horizon-complete"
+  ],
+  "site": "toolix.me"
+}
